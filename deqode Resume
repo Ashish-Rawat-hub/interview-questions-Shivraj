@@ -1,0 +1,186 @@
+Shivraj Patil
+DevOps Engineer
+shpatil@deqode.com
+
+TECHNOLOGY SKILLS
+Cloud ★★★★☆
+Scripting ★★★☆☆
+IaaC ★★★★☆
+Containers &
+Orchestration
+CI/CD
+Monitoring
+
+★★★★☆
+
+★★★★☆
+★★★★☆
+
+Cloud Platforms:
+● Azure
+● AWS
+
+Proficient in:
+● Jenkins
+● Ansible
+● Terraform
+● Docker
+● Kubernetes
+● Azure Board
+● Azure Repo/Git
+● Azure DevOps
+● Virtual Machine
+● Git
+● REST Architecture
+
+Operating System:
+● Linux/Unix
+
+ABOUT
+DevOps Engineer with notable experience with Azure platform. Known
+for expertise in CI/CD, Automation of Configuration Management,
+Security, Build/Release Management, Cloud Resource Utilisation,
+Infrastructure Automation etc.
+EXPERIENCE
+DevOps Engineer
+Deqode | 2023 - Present
+● Extensive experience in deploying compute and storage in Azure
+cloud
+● Extensive hands-on experience with Azure AKS, ACS, Azure
+Monitors, Azure DevOps, Azure Managed OB Services, and
+Networking.
+● Utilised Azure cloud services such as Azure VM, Azure Monitor
+Autoscale, and Azure Virtual Network to architect and develop
+secure, highly scalable, and flexible systems capable of handling
+both expected and unexpected production traffic.
+● Proficient in deploying applications on Azure App Service,
+ensuring smooth and efficient deployment processes.
+● Demonstrated expertise in infrastructure provisioning using
+Terraform, successfully setting up and managing
+multi-environment configurations.
+● Implemented Azure Managed Identities for Azure resources,
+enhancing security by eliminating the need to manage and store
+credentials within applications or virtual machines.
+● Proficiently configured monitoring and logging for Azure
+Functions using Azure Monitor and Application Insights, enabling
+proactive issue detection and performance optimization.
+● Experienced in managing Infrastructure/Application production
+servers, troubleshooting, inter-departmental coordination and
+escalation management.
+● Worked on the installation of Docker using the Docker toolbox
+● Involved in provisioning and Automation servers on Public Cloud
+like Azure and Kubernetes
+● Installed and configured Git to implement a branching strategy
+which is suitable for agile development also provided continuous
+support and maintenance of software builds
+● Wrote PowerShell scripts to create the parameter files
+automatically for all the services in Azure Resource Manager
+
+● Dockerised pipeline processing/monitoring for complex services
+● Good experience working with AWS provided Solutions like EC2,
+ELB, VPC, Route 53, RDS, S3, IAM, and Cloud Watch.
+● Converted existing AWS infrastructure to Serverless architecture
+(AWS Lambda, Kinesis), deployed via AWS CloudFormation
+● Worked with product development to resolve build-related issues
+in all projects
+
+DevOps Engineer
+Canopus software solution Pvt ltd | 2021 - 2023
+● Primarily responsible for automation, implementation and
+support of cloud-native technology
+● Worked in a highly collaborative operations team to streamline
+the process of implementing security confidential Azure cloud
+and AWS environment and introduced best practices for
+remediation
+● Proficient in using Azure DevOps for continuous integration and
+continuous deployment (CI/CD) pipelines
+● Worked on Azure Site Recovery and Azure Backup- Deployed
+instances on Azure environments
+● Provisioned and deployed AWS infrastructure resources like EC2,
+Virtual Private Cloud (VPC), Simple Storage Services (S3), Load
+Balancer, Auto Scaling and CloudWatch
+● Maintained Identity Access Management, roles and policy
+● Experienced in administrating Kubernetes cluster managed as
+well as unmanaged
+● Automated and orchestrated build and deployment using
+configuration and deployment management systems using
+Docker, K8s
+● Experienced in monitoring, metrics gathering and observability
+tools
+● Created Shell scripts and scheduled them as cron jobs to
+automate tasks and process
+● Performed configuration, deployment and support of cloud
+services including Amazon Web Services (AWS)
+● Used Jenkins CICD PipelineforAutomation
+
+PROJECTS
+Interprefy
+● About- Interprefy is a leading provider of web-based language
+interpretation solutions, offering a comprehensive platform for
+real-time multilingual communication.
+● Role- DevOps Engineer
+
+● Key Contribution-
+○ Successfully architected the application on the Azure Cloud
+platform, ensuring optimal scalability, availability, and
+performance.
+○ Proficiently deployed microservices on Azure App Services,
+leveraging its robust features for seamless application
+hosting.
+○ Configured Azure RBAC rules and policies, effectively
+managing user access and permissions within the Azure
+environment.
+○ Integrated Github actions CI runners with Azure VMs,
+streamlining the release management process for efficient
+software deployments.
+○ Expertly upgraded versions in Azure AKS and effectively
+managed the deployed workloads, ensuring minimal
+disruptions and smooth operations.
+○ Designed and implemented CI/CD pipelines using Github
+actions, enabling automated software delivery and
+deployments across multiple environments.
+● Tech Stack- Azure Board , Azur Repo/Git , Azure DevOps, K8s,
+Terraform
+
+Farma Friend
+● About- Farma Friend is going to deliver pharma products to
+farmers along with online booking and sales.
+● Role- DevOps Engineer
+● Key Contribution-
+○ Experience in Azure cloud platform, including infrastructure
+deployment, monitoring, backup, and Azure Site Recovery
+(ASR).
+○ Proficient in patching Windows and Linux systems, utilising
+PowerShell scripting for various administrative tasks.
+○ Strong knowledge and hands-on experience with Azure
+Virtual Desktop (AVD) and Azure storage solutions.
+○ Proficient in using Azure DevOps for continuous integration
+and continuous deployment (CI/CD) pipelines.
+○ Skilled in infrastructure provisioning and management
+using Terraform, ensuring efficient and scalable
+deployments.
+○ Proficient in creating playbooks and automating tasks
+using Ansible, improving operational efficiency.
+○ Familiarity with containerization technologies such as
+Docker, enabling easy application deployment and
+management.
+○ Experience in working with networking components and
+protocols, ensuring smooth communication between
+systems.
+○ Strong troubleshooting skills, diagnosing and resolving
+issues related to cloud infrastructure and applications.
+○ Knowledge of security best practices in cloud
+environments, ensuring data confidentiality and integrity.
+○ Excellent communication and collaboration skills, working
+effectively in cross-functional teams
+
+○ Proven ability to adapt to new technologies and learn
+quickly in dynamic environments.
+○ Strong problem-solving skills, identifying and resolving
+complex technical challenges.
+○ Detail-oriented with a focus on delivering high-quality
+solutions on time.
+○ Experience working in Agile/Scrum environments, delivering
+iterative and incremental solutions.
+● Tech Stack- Azure, Azure DevOps, Docker, Kubernetes, AWS, Git
+and Terraform
