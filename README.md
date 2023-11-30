@@ -546,3 +546,449 @@ MOM customer round at Wipro.
 - Scenerio based questions on terraform resource dependent on other resource.
 - how will you manage the creation order of kubernets objects(deployment,service,secrets,volume) with Helm chart.
 - terraform imperative vs declarative.
+
+
+
+
+
+
+ a command to scale the pods present inside a statefulset to 10.
+
+15. What is the relationship between PV and PVCs ? 
+
+16. How can we attach Azure Storage Account in PV and PVCs.
+
+17. Can we have multiple PVs attached to one PVC ?
+
+18. What is the command to resolve git conflicts while merging from a child branch to a parent branch for eg: multiple branches created from master branch.
+
+Rahul Ratilal Nikumbhe, 3 Aug, 10:39
+Mock interview feedback - @Akhilesh Moonat 
+- Introduction
+    - Introduction Should be improved and keep precise, up to the point.
+    - Need a proper explanation of the project and tech stack.
+- Technical Depth
+    - Need to improve basics for kubernetes, terraform & powershell script
+    - Good with Azure DevOps, AAD, and other Azure services, try to give an example while answering
+- Articulation/connecting the dots 
+    - Some points not connecting to the actual explanation.
+    - Tracking away from the topic sometimes.
+- Scenario Questions 
+    - Need to pause and think about the actual scenario asked.
+    - Scenarios on Kubernetes & terraform need to improve. 
+- General Communication 
+    - Confidence can be improved.
+
+Rahul Ratilal Nikumbhe, 3 Aug, 10:42
+Mock interview feedback - @Sandeep Harikrishnan 
+- Introduction
+    - Introduction Should be improved and keep precise, up to the point.
+    - Need a proper explanation of the project.
+- Technical Depth
+    - Technical terminology missing for some of the questions.
+    - Need to improve basics for kubernetes, terraform & powershell script
+    - Need to improve the basics of Azure DevOps and AAD, try to give an example while answering
+    - Good with other Azure services.
+- Articulation/connecting the dots 
+    - Some points not connecting to the actual explanation.
+    - Tracking away from the topic sometimes.
+- Scenario Questions 
+    - Scenarios on kubernetes, terraform and Azure DevOps need to improve. 
+- General Communication 
+    - Confidence can be improved.
+
+You, 3 Aug, 15:03
+MOM | Persistent L1 
+      Introduce yourself
+    1)What is VPC (Virtual Private Cloud)?
+    2)What is the difference between a public and private subnet?
+    3)What is S3 (Simple Storage Service)?
+    4)What is a load balancer?
+    5)What is auto scaling?
+    6)How can we use an updated image in auto scaling?
+    7)What is the difference between merge and rebase in version control systems?
+    8)What is git stash?
+    9)Write a manifest for a cron job.
+    10)How do we set a specific interval in a cron job?
+    11)How do we optimize the Dockerfile?
+    12)What are AKS (Azure Kubernetes Service) and EKS (Elastic Kubernetes Service)?
+    13)How do we manage or create the master node in EKS?
+    14)How do we create and manage worker nodes in EKS?
+    15)How do we give specific access to users in Azure?
+    16)What is IAM (Identity and Access Management) and roles in AWS (Amazon Web Services)?
+    17)How to access the container in Azure storage?
+    18)What is Helm?
+    19)How do we upgrade the Helm chart?
+    20)Structure of Helm charts and commands used.
+    21)How can we access the instance in a private subnet?
+    22)Explain Jenkins pipeline.
+    23)Explain AWS Pipeline.
+    24)Do you have knowledge about scripting and Python?
+    25)Describe the Kubernetes (k8s) architecture.
+    26)What are PV (Persistent Volume) and PVC (Persistent Volume Claim) in Kubernetes?
+
+You, 4 Aug, 13:24
+MOM | Persistent L2 
+Which infrastructure have you created using Terraform?
+What happens if we manually make changes to the infrastructure?
+What backend have you used for Terraform, and how did you manage to store the Terraform configuration files?
+What is variable precedence in Terraform?
+If the infrastructure got deleted, how do you retrieve it?
+How to add manually created resources?
+What is Airflow?
+Have you ever worked on Python scripting, and can you explain with an example?
+Have you worked on shell scripting, and for what scenarios have you used it?
+How to establish a connection between a Kubernetes pod and Azure?
+How to create EKS and AKS clusters, master-slave, and management?
+Difference between StatefulSet and Deployment.
+PVC and PV relationship and their ratio.
+Jenkins pipeline creation.
+Azure CI/CD: Difference between build and release pipelines.
+How to deploy the application using Azure DevOps pipeline?
+Explain the networking concepts of Azure and AWS, such as private and public subnets.
+
+Piyush Rathod, 4 Aug, 14:47
+MOM | Persistent
+
+1. How I can store state in terraform?
+2. Hon can I prevent multiple developer running terraform plan on their local machine.
+3. Can I save my tf state in any centralized location?
+4. Do you have any experience on Azure or AWS.
+5. Are you aware about AWS auto scaling and how it works?
+6. Suppose I'm running 2 instance in farget, how you can associate different CPU and different Memory on this Instances. 
+7. How can I change default configuration of AWS farget?
+8. Suppose you have autoscaling for an instance or application and that is running on 1 year version how can you upgrade that application running on auto-scaled instance.
+9. Do you know VPC in AWS.
+10. What kind of subnet's are there in AWS
+11. What is the main deference between private and public subnet ?
+12. What is the deference between merge and rebase in git.
+13. How can I save my local changes and switch to other branch without loosing changes.
+14. How can I check CPU and memory usage linux instance?
+15. Suppose I have log file and have to check last one hour logs, So how can I extract those data from log file.
+16. Do you have any experience on bash or python script? 
+17. How can I copy local file to remote server?
+18. What tools you have used for monitoring?
+19. How you will integrate monitoring tools with grafana?
+20. What is ansible?
+21. What is ansible galaxy?
+22. What is the deference between CMD command and Entrypoint in docker?
+23. Can you share your screen and write Docker file syntax.
+24. What is expose in docker file ?
+25. How many years of experience do you have?
+26. Have you done any certifications?
+
+Tanmay Nihore, 11 Aug, 12:45
+MOM: Accoin labs 
+Introduction 
+Questions related to the projects that I've worked on
+Explain the procedure of transforming data from source to destination and write down the steps for the same.
+What kind of data you've worked on 
+Explain all the services you've worked on  Azure
+How can you ingest the data from any source?
+Explain the procedure of adding triggers to your programs, with a proper use case in detail.
+Explain a whole workflow using Azure Services.
+How efficient you're on working with python
+
+Santosh Panchal, 16 Aug, 16:10, Edited
+MOM:WonderBotz L2
+
+1.Your previous experience,expertise,cloud platform and automation language and programming language.
+2.What are the key services of aws.
+3.Do you managed ECS ?
+4.Why VPC is one of the main component?
+5.Application and Network load balancer?
+6.Security :- On application.(How would you secure the application) 
+7. Is the WAF important for the application?
+8.Tell me about Linux and Windows ? Linux and Windows environment.
+9.Linux server run out of space how would you troubleshoot ?
+10.If you identified its log issue?what will you do?
+11.Do you any experience in Git-lab CI/CD?
+12.Explain you handle the secrets for the Git-lab?
+13.We need to manage patching in Linux and Windows servers?How would you do it?
+14.Microsoft releases the patches and if there is issue with the patches how will you revert it?
+15.Explain the IAAC?
+16.What are the advantages of using IAAC?
+
+Mayank Jadhav, 6 Sept, 13:07
+MOM for Coforge HSBC -
+
+There were three interviewers.
+The discussion went well for 1 hour.
+Questions which they asked -
+
+1. Tell us in brief about yourself.
+2. What is a Managed instance group?
+3. What is unmanaged instance group and when will we use which one?
+4. How to configure multiple Managed instance group on load balancer?
+5. What are the different types of load balancers on GCP?
+6. List out the GCP services on which you have worked.
+7. What work you have done on cloud SQL?
+8. How to create multiple compute engines using terraform with names?
+9. What is dynamic block in terraform?
+10. What is Cloud NAT?
+11. What is Cloud CDN?
+12. What is VPC peering and VPN tunneling?
+13. What is crontab?
+14. What is ssh and how it works?
+15. What is Telnet?
+16. How you restricted  the network of  Cloud SQL?
+17. How you have integrated cloud proxy?
+18. What work you have done on Jenkins?
+19. What is multibranch pipeline?
+20. How you have configured Jenkins with Github?
+21. How do you SSH into compute engine with Jenkins?
+22. How to transfer 100GB of data with 100mbps speed to cloud?
+23. How to do path based routing with Load balancer?
+24. Difference between HTTPS and TCP load balancer and when to use which one?
+25. Suppose you have running application which takes files from user and stores it in cloud storage. Now, you need to check the status of file and the data of cloud storage will be deleted after a year. How will you do that?
+26. What is Cloud Pub/Sub?
+27. Have you any experience on programming?
+28. What is the difference between list,tuple and dictionary and when to use which one?
+29. Have you worked on Cloudbees?
+30. What is Auto scaling and auto healing?
+31. What CI/CD tools you have used?
+32. Why you have used python in your project?
+
+You, 6 Sept, 14:17
+MoM persistent L3
+1.Introduce yourself ?
+2. How to architect and deploy infrastructure on the cloud?
+3.How to use functions in Terraform?
+4. What is disaster recovery in the context of cloud infrastructure?
+5. How can you manage costs effectively in a cloud environment?
+6. Explain the stages in a pipeline for deploying infrastructure.
+7. How do you create Helm charts for Kubernetes applications?
+8.Can you provide examples of using output values of one script to other scripts?
+9.Write a logic to find the frequency of a word in a given paragraph?
+10. How can you automate tasks using shell scripts?
+11. Describe the process of deploying an application on Kubernetes.
+12.How do you create infrastructure in Terraform?
+13.What is a dynamic block in Terraform?
+14. Can you share a scenario where you've helped your organization with a technical challenge?
+15. How do you set up monitoring using Prometheus and Grafana?
+16. How to architect and deploy infrastructure on Kubernetes?
+17. How do you use the count parameter in Terraform?
+18. Explain the relationship and scenarios involving Persistent Volume Claims (PVC) and Persistent Volumes (PV).
+19. What are labels and annotations in Kubernetes?
+20.What happens if the Terraform state file is deleted
+21.How does Terraform's import command work?
+22. What happens when you make changes to a Terraform module, and how does Terraform behave?
+23.What are headless services in Kubernetes?
+24.What are affinity and anti-affinity rules in Kubernetes?
+25.How do you set up alerts in Prometheus and Grafana?
+26. Which CI/CD tools have you used, and can you explain the stages in your pipeline?
+27. Explain the steps to deploy an application using cicd pipelines?
+28. Can you provide examples of scripting for different scenarios?
+
+Mayank Jadhav, 28 Sept, 19:58
+MOM for Ness -
+
+The discussion went well for 1 hour.
+Questions that were asked -
+
+1. What Azure services you have worked on?
+2. Have you worked on Azure DevOps?
+3. Have you worked on Terraform?
+4. How to create AKS with Terraform?
+5. How to create AKS for multiple environments with Terraform?
+6. How to create Azuew VM's with Terraform for multiple environments with Terraform?
+7. Have you used Azure Repos?
+8. How to rollback the changes of application with Azure DevOps?
+9. Do you have any certifications?
+10. What DevOps tools you have worked on?
+11. What testing tools you have worked on?
+12. How you have done testing with Maven on Jenkins?
+13. How to handle multiple projects with github?
+14. Do you have any question for me?
+15. How to deploy on multiple environments with Azure DevOps?
+16. How you handle secrets with terraform?
+17. How do you invoke secrets from key vault in terraform?
+18. How you have connected Azure SQL with AKS?
+19. Do you have any question for me?
+
+Mayank Jadhav, 6 Oct, 13:41
+MOM for Persistent L1 -
+
+The discussion went well for 30 minutes.
+Questions that were asked -
+
+1. What Azure services you have worked on?
+2. What AWS services you have worked on?
+3. What GCP services you have worked on?
+4. What work you have done on Azure DevOps?
+5. How you have deployed the code on AKS with Azure DevOps?
+6. Have you created any secrets on AKS?
+7. How to mount volumes on AKS?
+8. Have you worked on Cloud functions?
+9. Have you worked on Pub/Sub?
+10. What pipelines you have created on Jenkins?
+11. What work you have done on Groovy?
+12. What security tools you have used?
+13. What rules you have configured on firewall?
+14. Why you have used Nginx?
+15. What monitoring tools you have worked on any how you have configured them?
+16. Have you monitored metrics of VM?
+17. Have you worked on terraform modules?
+18. How you have configured backend?
+19. Do you have any question for me?
+
+Govinda Yadav, 11 Oct, 16:14, Edited
+MOM for cigniti :- 
+
+The discussion went well for 35 Minutes.
+Questions that were asked - 
+
+1. Brief Introduction
+2. How you will manage observability?
+3. What are the monitoring setup you had done so far?
+4. What APM tools you have used?
+5. What are the SLO you followed?
+6. How you will work in project if will align you. What is your first 30 and 60 days strategy?
+7. What size of team you are managing and what are the challenges you will face in team management?
+8. What IAAC tools you have used and what infra you have setup through it explain briefly?
+9. How you will setup monitoring/alert with Ansible?
+10. What kind of CI/CD you setup and for what purpose?
+11. Explain why you use Lambda in your projects?
+12. What if you will deploy on a project in mid like setup and infra is uncompleted how you will take charge and deliver the work to client? 
+13. Do you have any question you can ask?
+
+They need a person who will join their SRE team and manage and work on the project from mid or from scratch.
+
+Mayank Jadhav, 12 Oct, 15:07
+MOM for Cigniti :- 
+
+The discussion went well for 30 Minutes.
+Questions that were asked - 
+
+1. What IAC tools have you used?
+2. What are your day-to-day activities?
+3. What APM tools have you used and what work have you done on them?
+4. What do you do when an incident occurs?
+5. How do you manage the SLA?
+6. On which cloud platform you have worked the most?
+7. How you have set up the monitoring on Kubernetes?
+8. What alerts you have created?
+9. Have you used any tools for synthetic monitoring?
+10. What work you have done on Datadog?
+11. What work you have done on ELK?
+12. How do you provide the turnaround time?
+13. What do you do if a website is not working because of the application issue and how do you fix it? 
+14. What branching strategies do you follow?
+15. What are the common issues you see when the website is down?
+16. How do you fix the issues?
+
+Govinda Yadav, 23 Oct, 16:04
+MOM for Altysis :-
+
+1. What is Disaster Recovery and what are the best way to use it.
+2. How you implemented Disaster Recovery and what are the approaches you set up in different projects.
+3. What are the Horizontal and Vertical Scalling and where you implemented this?
+4. How you setup microservices in your project?
+5. What are the different modules you have used in Terraform?
+6. Have you used ansible, purpose of use and playbooks which you written?
+7. Which type of Shell scripting you created?
+8. Different components on which you worked in EKS?
+9. How you manage secrets in AWS?
+10. Which services you worked on security side on AWS?
+11. What is the use of SageMaker in AWS?
+
+Mayank Jadhav, 1 Nov 2023, 11:26, Edited
+MOM for Fractal Data Engineer -
+
+1. On what GCP services you have worked?
+2. Explain the architecture of Pub/Sub.
+3. What are Pull and Push in Pub/Sub and differences between them?
+4. What pipelines have you created?
+5. What work have you done on Dataflow?
+6. Share your screen and write the code of the Dataflow pipeline?
+7. How to create a Dataflow pipeline from UI?
+8. What are the differences between Kubernetes and Cloud Run?
+9. What are the differences between Cloud Functions and Cloud Run?
+10. What will happen when I'll receive millions of requests on Pub/Sub?
+
+Mayank Jadhav, 1 Nov 2023, 18:39, Edited
+MOM for HSBC -
+
+The discussion went well for 30 Minutes.
+Questions that were asked - 
+
+1. On what AWS services you have worked the most?
+2. What is Kubernetes?
+3. What are services?
+4. Have you worked on Docker?
+5. How do you create Docker Images?
+6. How you have deployed images on Kubernetes?
+7. Where were manifest files stored?
+8. Have you worked on S3?
+9. Have you worked with versioning in S3?
+10. Can we disable versioning after enabling it?
+11. What work you have done on Terraform?
+12. How you created EKS with Terraform?
+13. What notification services you have worked on AWS?
+14. What is SQS?
+15. What is SNS?
+16. How you have integrated SNS with Cloudwatch?
+17. What is SES?
+18. Why you use SNS instead of SNS for Cloudwatch Alarms?
+19. Have you worked on ebs csi driver?
+20. What resources you have created on Kubernetes?
+21. Have you worked on GCP?
+22. What GCP services you have used?
+23. What service type do Kubernetes master components use?
+24. What are the different classes of S3?
+25. What are the differences between Glacier and Archieve?
+26. What serverless services you have used on AWS?
+27. What is AWS lambda and why you have used it?
+28. How you are deploying on Lambda with github actions?
+29. Can we update the configuration of lambda?
+30. If I have an application that takes 30 minutes to complete so can I use lambda here?
+
+Tanmay Nihore, Mon 12:37
+MOM: Ascendion 
+
+- Explain the data flow that you're currently working on 
+- Explain about your current project.
+- What id ADF- Azure data factory and how you're using it.
+- What I'd databricks and how much experience you've on working with it 
+- How much experience you've on working with python
+- WAC for counting the no of occurance of 1 twice when it came after one another.
+FOR EX: 
+I/P : [1,1,1,0,0,1,1,1,1,0,0,0,1,1]
+O/P : 4
+- How much experience you've on working with SQL 
+- WAQ for converting the following data as 
+
+I/p 
+I'd  value 
+1.   A
+2.   B
+3.   C
+4.   D
+5.   E 
+
+O/p 
+I'd value 
+1.   B
+2.   A
+3.   D
+4.   C
+5.   E
+Using a sql query
+
+Santosh Panchal, Tue 15:32
+MOM HSBC :-
+1)Have you worked on Load Balancer,Cloudformation,API gateway,Databases.
+2)Any idea Aurora,Dynamodb
+3)What is Dockerfile?
+4)What is terraform state file?If i have deployed some infra and someone has make changes through GUI then next if i will do terraform plan what will happen?
+5) For some urgency you made change in the cloud and after that you made changes in the code what will happen when you will apply the changes?
+6)Have you automated any process using jenkins?
+7)What are the types of jenkins pipeline?
+8)What is scriptive,declarative? What is the difference between them.
+9)Write the scriptive and declarative format for jenkins.
+10)Do you have worked with grovvy?
+11)Do you have hansdon on bash srcipting?
+12)Have you worked on microservices?
+13)If you want to create database on kubernetes how you will create that?
+14)Where the data will be stored ?
+
